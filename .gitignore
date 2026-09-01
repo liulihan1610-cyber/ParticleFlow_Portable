@@ -1,0 +1,5 @@
+# configration files include packages/dependencies/env
+
+.streamlit
+.venv
+__pycache__
